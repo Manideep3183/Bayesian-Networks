@@ -16,3 +16,8 @@ As a Data Detective, your mission is to predict the risk of heart disease using 
 ## Bayesian Network Structure
 
 ![bayesian_network](https://github.com/user-attachments/assets/aac3584f-27a8-4049-99bc-ae68d6ea681f)
+
+##Sample Outputs
+
+![image](https://github.com/user-attachments/assets/2f73175a-2014-4573-86a1-5b2ba114532f)
+
